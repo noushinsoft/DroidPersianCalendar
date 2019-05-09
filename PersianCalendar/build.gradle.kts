@@ -90,7 +90,7 @@ dependencies {
     kapt("androidx.lifecycle:lifecycle-compiler:2.0.0")
 
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8:${KotlinCompilerVersion.VERSION}")
-    implementation("androidx.core:core-ktx:1.0.1")
+    implementation("androidx.core:core-ktx:1.0.2")
     implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0")
     implementation("androidx.fragment:fragment-ktx:1.0.0")
 
