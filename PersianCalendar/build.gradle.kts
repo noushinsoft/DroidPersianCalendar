@@ -112,7 +112,7 @@ dependencies {
 
 //  debugImplementation("com.github.pedrovgs:lynx:1.1.0")
 
-    testImplementation("junit:junit:4.12")
+    androidTestImplementation("androidx.test.ext:junit:1.1.0")
 
     androidTestImplementation("androidx.test:runner:1.1.1")
     androidTestImplementation("androidx.test:rules:1.1.1")
