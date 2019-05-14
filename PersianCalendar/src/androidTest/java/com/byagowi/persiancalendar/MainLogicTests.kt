@@ -1,5 +1,6 @@
 package com.byagowi.persiancalendar
 
+//import us.fatehi.calculation.Equinox
 import com.byagowi.persiancalendar.calendar.CivilDate
 import com.byagowi.persiancalendar.calendar.IslamicDate
 import com.byagowi.persiancalendar.calendar.PersianDate
@@ -14,7 +15,6 @@ import com.byagowi.persiancalendar.utils.Utils
 import com.cepmuvakkit.times.view.QiblaCompassView
 import org.junit.Assert.*
 import org.junit.Test
-//import us.fatehi.calculation.Equinox
 import java.util.*
 
 class MainLogicTests {
